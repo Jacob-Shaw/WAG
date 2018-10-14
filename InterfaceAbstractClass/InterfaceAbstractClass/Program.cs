@@ -24,7 +24,9 @@ namespace InterfaceAbstractClass
 
             CustomizableWidget Custom1 = new CustomizableWidget(9, 8, 7);
 
-            Custom1.DisplayComponents();                     
+            Custom1.DisplayComponents();    
+            
+            Console.ReadLine();
 
         }
     }
